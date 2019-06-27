@@ -1,7 +1,17 @@
 [
-   "profile": {
+  {
     "id" : 1,
     "name": "typicode"
-    
+  },
+   
+  {
+    "id" : 2,
+    "name": "typicode2"
+  },
+   
+  {
+    "id" : 3,
+    "name": "typicode3"
   }
+   
 ]
